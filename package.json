@@ -1,0 +1,20 @@
+{
+  "name": "skills-copilot-codespaces-vscode",
+  "version": "1.0.0",
+  "description": "My clone repository for learning GitHub Copilot and Codespaces",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c4u1tkon/skills-copilot-codespaces-vscode"
+  },
+  "keywords": [
+    "test",
+    "copilot",
+    "codespaces"
+  ],
+  "author": "",
+  "license": "ISC"
+}
